@@ -13,5 +13,5 @@ https://github.com/chenjd/Unity-ARFoundation-HandDetection<br>
 https://medium.com/s23nyc-tech/using-machine-learning-and-coreml-to-control-arkit-24241c894e3b
 
 ## Tested on:
-Unity 2019.1.5f1
+Unity 2019.1.5f1<br>
 iPhoneXS Max iOS 12.2
