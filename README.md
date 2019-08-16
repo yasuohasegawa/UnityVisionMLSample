@@ -13,6 +13,7 @@ We have to write the following struct class in the .h or .mm files to cast the p
 
 ```C#
 Here is the C# session pointer to get.
+
 ARSession m_session;
 var sessionSubsystem = (ARKitSessionSubsystem)m_session.subsystem;
 sessionSubsystem.nativePtr
