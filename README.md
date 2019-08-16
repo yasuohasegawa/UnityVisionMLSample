@@ -1,7 +1,7 @@
 # UnityVisionMLSample
 This project is the sample code of working with ARFoiundation, Vision framework, and CoreML.<br>
 <br>
-The sample app is almost as same as the Apple sample below.<br>
+This sample app is almost as same as the Apple sample below.<br>
 https://developer.apple.com/documentation/arkit/recognizing_and_labeling_arbitrary_objects?language=objc<br>
 <br>
 
