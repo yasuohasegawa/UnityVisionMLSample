@@ -9,7 +9,7 @@ The point is the app sends the ARSession pointer to the native side from Unity s
 In this way, we can easily manage the ARSession.
 
 ## References:
-https://github.com/chenjd/Unity-ARFoundation-HandDetection
+https://github.com/chenjd/Unity-ARFoundation-HandDetection<br>
 https://medium.com/s23nyc-tech/using-machine-learning-and-coreml-to-control-arkit-24241c894e3b
 
 ## Tested on:
